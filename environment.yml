@@ -1,6 +1,7 @@
-name: porespy
+name: openpnm
 channels:
   - conda-forge
 dependencies:
   - python=3.9
   - openpnm>=3.0
+  - porespy
